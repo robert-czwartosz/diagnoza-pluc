@@ -35,11 +35,11 @@ Druga metoda osiągnęła bardzo niską dokładność(wszystkie zdjęcia został
 Screeny
 ========
 Po uruchomieniu aplikacji interfejs użytkownika wygląda następująco:
-![Interfejs po uruchomieniu](./screeny/screen1.png "Interfejs po uruchomieniu aplikacji")
+![Interfejs po uruchomieniu](./screeny/screen1.bmp "Interfejs po uruchomieniu aplikacji")
 Po kliknięciu przycisku **Wczytaj** i wybraniu pliku ze zdjęciem w oknie pojawia się wybrane zdjęcie.
-![Wczytane zdjęcie](./screeny/screen2.png "Wczytane zdjęcie")
+![Wczytane zdjęcie](./screeny/screen2.bmp "Wczytane zdjęcie")
 Po kliknięciu przycisku **Zbadaj** otrzymano wynik diagnozy.
-![Wynik diagnozy](./screeny/screen3.png "Wynik diagnozy")
+![Wynik diagnozy](./screeny/screen3.bmp "Wynik diagnozy")
 
 Konfiguracja projektu
 ===================
